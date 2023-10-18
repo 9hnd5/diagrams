@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T08:39:00.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="5au4NmYHA50FlWR8bQsR" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T23:55:40.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jRG_2U-k6OVe1tPUPUFK" version="22.0.4" type="github">
   <diagram name="Page-1" id="PrSZD1s-5RXQUpFa0iiU">
-    <mxGraphModel dx="1466" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="KfRFQpdakjloR3NCTCSo-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KfRFQpdakjloR3NCTCSo-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;" parent="1" vertex="1">
-          <mxGeometry x="360" y="474" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KfRFQpdakjloR3NCTCSo-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="32.94" height="35" as="geometry" />
